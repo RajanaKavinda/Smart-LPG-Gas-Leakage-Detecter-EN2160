@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Gas_leakage.PcbDoc   4/19/2023  11:58:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gas_leakage.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             21        PTH        132.63mm (5.22inch)
+T2      0.65mm (26mil)                                            Round             2         PTH        6.56mm (0.26inch)
+T3      0.7mm (28mil)                                             Round             8         PTH        51.95mm (2.05inch)
+T4      0.8mm (31mil)                                             Round             8         PTH        36.73mm (1.45inch)
+T5      0.85mm (33mil)                                            Round             2         PTH        10.75mm (0.42inch)
+T6      0.9mm (35mil)                                             Round             28        PTH        101.60mm (4.00inch)
+T7      1mm (39mil)                                               Round             9         PTH        71.90mm (2.83inch)
+T8      1.02mm (40mil)                                            Round             10        PTH        128.26mm (5.05inch)
+T9      1.1mm (43mil)                                             Round             12        PTH        41.21mm (1.62inch)
+T10     1.45mm (57mil)                                            Round             2         PTH        20.94mm (0.82inch)
+T11     3mm (118mil)                                              Round             4         PTH        181.00mm (7.13inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              106
+
+Total Processing Time (hh:mm:ss) : 00:00:00
